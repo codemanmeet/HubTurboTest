@@ -1,2 +1,2 @@
-# HubTurboTest
-test repo for HubTurbo 
+# Sample Repo 1
+First sample repo to showcase the unique features that HubTurbo has in store for you. Power Github-users are going to love it!
